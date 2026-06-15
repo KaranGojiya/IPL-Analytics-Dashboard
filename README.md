@@ -35,3 +35,21 @@ It analyzes IPL data using:
 ```bash
 pip install pandas matplotlib
 python app.py
+```
+---
+
+## 👨‍💻 Author
+
+**Karan Gojiya**
+
+Second-year B.Tech student passionate about Data Analytics, Machine Learning, and Software Development. This project demonstrates my ability to analyze and visualize IPL data using Python, Pandas, and Matplotlib.
+
+### Skills
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Data Analysis
+- Machine Learning
+
+⭐ Feel free to explore the project and share your feedback!
